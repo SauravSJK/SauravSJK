@@ -14,9 +14,9 @@
 ---
 
 <a href="https://www.credential.net/139cf696-a84d-4a95-8745-b979d8b79bcb?key=e616a793196de4f6131371a0418c1c3bd5109196de1f05c8342f972ca0f1d3df">
-         <img src="https://github.com/SauravSJK/SauravSJK/blob/e1b9e218d7a38d920491ac95078e5cebb8f82a3b/GCP%20ML.png" height="200"/>
+         <img src="https://github.com/SauravSJK/SauravSJK/blob/e1b9e218d7a38d920491ac95078e5cebb8f82a3b/GCP%20ML.png" height="100"/>
 </a>
 
 <a href="https://www.credly.com/badges/445b8fba-fed2-4107-a6cf-5cc6b818e75c/public_url">
-         <img src="https://github.com/SauravSJK/SauravSJK/blob/e1b9e218d7a38d920491ac95078e5cebb8f82a3b/AWS%20ML.png" height="200"/>
+         <img src="https://github.com/SauravSJK/SauravSJK/blob/e1b9e218d7a38d920491ac95078e5cebb8f82a3b/AWS%20ML.png" height="100"/>
 </a>
