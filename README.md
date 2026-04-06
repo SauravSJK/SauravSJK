@@ -1,22 +1,29 @@
-### Hi there 👋
+### Senior Machine Learning Engineer | MSCS @ University of Washington
+
+**Bridging the gap between Enterprise Security Governance and Deep Learning.**
 
 ---
 
-- 🔭 I’m currently working on solving leetcode problems to improve my approach on solving problems with a time constraint.
-- 🌱 I’m currently learning Java and revising C++.
-- 👯 I’m looking to collaborate on Machine Learning projects.
-- 🤔 I’m looking for help with any of the above.
-- 💬 Ask me about Python, Machine Learning, Tensorflow, Keras, and Deep Learning.
-- 📫 How to reach me: sauravjayakumar27@gmail.com, sauravsj@uw.edu, and www.linkedin.com/in/saurav-jayakumar/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I want to travel the world.
+### 🚀 Professional Profile
+* **Expertise**: Specialized in building **Autonomous AI Agents** and **RAG-based Security Systems** for enterprise-scale log auditing.
+* **Background**: 5+ years of experience in **Security Governance (SAP GRC)** and Access Control, now applying these principles to LLM Guardrails and AI Safety.
+* **Research**: Author of *"Geometric Deep Learning for Multiple Conformation Generation from Electron Density Images,"* published in **IEEE CAI2025**.
 
----
+### 🛠️ Current Focus
+* 🔭 **SecuriteAI**: Developing a schema-agnostic, RAG-driven audit tool that parses thousands of Linux security logs to identify behavioral anomalies.
+* 🏗️ **LLM Systems**: Implementing function-calling protocols to connect LLMs with secure enterprise APIs for real-time privilege verification.
+* 🧠 **Advanced DSA**: Daily solving LeetCode Medium/Hard problems to maintain algorithmic rigor for high-performance system design.
 
-<a href="https://www.credential.net/139cf696-a84d-4a95-8745-b979d8b79bcb?key=e616a793196de4f6131371a0418c1c3bd5109196de1f05c8342f972ca0f1d3df">
-         <img src="https://github.com/SauravSJK/SauravSJK/blob/e1b9e218d7a38d920491ac95078e5cebb8f82a3b/GCP%20ML.png" height="100"/>
-</a>
+### 💬 Technical Stack
+* **Languages**: Python (Expert), SQL, C++.
+* **AI/ML**: PyTorch (from-scratch implementation), Transformers, LLM Orchestration (RAG, Tool-Use).
+* **Systems**: Linux Syslogs, Vector Databases (ChromaDB/Pinecone), SAP Security.
 
-<a href="https://www.credly.com/badges/445b8fba-fed2-4107-a6cf-5cc6b818e75c/public_url">
-         <img src="https://github.com/SauravSJK/SauravSJK/blob/e1b9e218d7a38d920491ac95078e5cebb8f82a3b/AWS%20ML.png" height="100"/>
-</a>
+### 📫 Connect with Me
+* **LinkedIn**: [linkedin.com/in/saurav-jayakumar/](https://www.linkedin.com/in/saurav-jayakumar/)
+* **Email**: sauravjayakumar27@gmail.com
+* **Location**: Frisco, TX (Greater Dallas Area).
+
+### ⚡ Beyond the Code
+* 🏎️ Huge **Formula 1** fan (Always rooting for Max Verstappen).
+* 🏸 Active **Pickleball** player.
